@@ -1,0 +1,4 @@
+x = input("Enter x :")
+y = input("ENter y :")
+print("x+y",x+y)
+
